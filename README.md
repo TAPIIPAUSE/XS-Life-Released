@@ -35,3 +35,4 @@ The main folders within lib/src are:
 ## Init project
 - Configure app_settings
 - Run flutterfire configure
+- file:///Users/pongpatosathanon/Downloads/XS_Life_UI-Report%20(1).pdf
